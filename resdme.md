@@ -1,0 +1,1 @@
+ptite application sur opencv qui detecte les personne et qui faie des filter
